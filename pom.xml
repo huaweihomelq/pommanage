@@ -29,5 +29,6 @@
     </dependencyManagement>
     <modules>
         <module>usercenter</module>
+        <module>service</module>
     </modules>
 </project>
